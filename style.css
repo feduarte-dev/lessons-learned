@@ -1,16 +1,28 @@
 /*Requisito #1-14*/
-body {background-color: rgb(253, 251, 251);
-font-size: 1.1em;
-color: rgb(14, 14, 14);
-line-height: 1.1em;
-font-family: sans-serif;}
+body {
+  background-color: rgb(253, 251, 251);
+  font-size: 1.1em;
+  color: rgb(14, 14, 14);
+  line-height: 1.1em;
+  font-family: sans-serif;
+}
 
 /*Requisito #2*/
 #cabecalho {
   position: fixed;
-  top: 0;}
-  
+  top: 0;
+}
+
 /*Requisito #13*/
-#minha_foto {margin: 5px;
-padding: 5px;
-border: 1px solid black;}
+#minha_foto {
+  margin: 5px;
+  padding: 5px;
+  border: 1px solid black;
+}
+
+/*Requisito #15*/
+.lado-direito,
+.lado-esquerdo {
+  display: inline-block;
+  width: 30%;
+}
