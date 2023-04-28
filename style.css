@@ -1,4 +1,4 @@
-/*Requisito #1-14*/
+/* Requisito #1-14 */
 body {
   background-color: rgb(253, 251, 251);
   font-size: 1.1em;
@@ -7,22 +7,21 @@ body {
   font-family: sans-serif;
 }
 
-/*Requisito #2*/
+/* Requisito #2 */
 #cabecalho {
   position: fixed;
   top: 0;
 }
 
-/*Requisito #13*/
+/* Requisito #13 */
 #minha_foto {
   margin: 5px;
   padding: 5px;
   border: 1px solid black;
 }
 
-/*Requisito #15*/
-.lado-direito,
-.lado-esquerdo {
+/* Requisito #15 */
+.lado-direito , .lado-esquerdo {
   display: inline-block;
   width: 30%;
 }
