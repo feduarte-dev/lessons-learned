@@ -6,3 +6,6 @@ body {background-color: rgb(253, 251, 251);}
   position: fixed;
   top: 0;}
 
+#minha_foto {margin: 5px;
+padding: 5px;
+border: 1px solid black;}
