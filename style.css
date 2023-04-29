@@ -2,8 +2,8 @@
 body {
   background-color: rgb(253, 251, 251);
   font-size: 1.1em;
-  color: rgb(14, 14, 14);
-  line-height: 1.1em;
+  color: #263A29;
+  line-height: 1.8em;
   font-family: sans-serif;
 }
 
@@ -11,13 +11,20 @@ body {
 #cabecalho {
   position: fixed;
   top: 0;
+  background-color: #D3E4CD;
+  width: 100%;
+  text-align: center;
+
 }
 
 /* Requisito #13 */
 #minha_foto {
-  margin: 5px;
+  margin: 100px;
   padding: 5px;
-  border: 1px solid black;
+  border: 1px solid #263A29;
+  width: 250px;
+  background-color: #D3E4CD;
+
 }
 
 /* Requisito #15 */
@@ -25,3 +32,15 @@ body {
   display: inline-block;
   width: 30%;
 }
+
+main {position: relative;}
+
+table {display: inline;
+  position: absolute;
+  top: 100px;
+border: 1px solid #263A29;
+padding: 10px;
+}
+
+table:nth-of-type(2) {left: 900px;}
+
