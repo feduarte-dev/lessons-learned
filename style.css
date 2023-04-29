@@ -2,7 +2,7 @@
 body {
   background-color: rgb(253, 251, 251);
   font-size: 1.1em;
-  color: #263a29;
+  color: rgb(38, 58, 41);
   line-height: 1.8em;
   font-family: sans-serif;
   max-width: 100%;
@@ -12,7 +12,7 @@ body {
 #cabecalho {
   position: fixed;
   top: 0;
-  background-color: #d3e4cd;
+  background-color: rgb(211, 228, 205);
   width: 100%;
   text-align: center;
 }
@@ -21,14 +21,13 @@ body {
 #minha_foto {
   margin: 100px 50px;
   padding: 5px;
-  border: 1px solid #263a29;
+  border: 1px solid rgb(38, 58, 41);
   width: 250px;
-  background-color: #d3e4cd;
+  background-color: rgb(211, 228, 205);
 }
 
 /* Requisito #15 */
-.lado-direito,
-.lado-esquerdo {
+.lado-direito , .lado-esquerdo {
   display: inline-block;
   width: 40%;
   margin: 0 50px;
@@ -43,11 +42,11 @@ table {
   display: inline;
   position: absolute;
   top: 100px;
-  border: 1px solid #263a29;
+  border: 1px solid rgb(38, 58, 41);
   padding: 10px;
 }
 
-table:nth-of-type(2) {
+table:nth-of-type( 2 ) {
   left: 850px;
 }
 
