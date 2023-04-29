@@ -2,45 +2,56 @@
 body {
   background-color: rgb(253, 251, 251);
   font-size: 1.1em;
-  color: #263A29;
+  color: #263a29;
   line-height: 1.8em;
   font-family: sans-serif;
+  max-width: 100%;
 }
 
 /* Requisito #2 */
 #cabecalho {
   position: fixed;
   top: 0;
-  background-color: #D3E4CD;
+  background-color: #d3e4cd;
   width: 100%;
   text-align: center;
-
 }
 
 /* Requisito #13 */
 #minha_foto {
-  margin: 100px;
+  margin: 100px 50px;
   padding: 5px;
-  border: 1px solid #263A29;
+  border: 1px solid #263a29;
   width: 250px;
-  background-color: #D3E4CD;
-
+  background-color: #d3e4cd;
 }
 
 /* Requisito #15 */
-.lado-direito , .lado-esquerdo {
+.lado-direito,
+.lado-esquerdo {
   display: inline-block;
-  width: 30%;
+  width: 40%;
+  margin: 0 50px;
+  vertical-align: text-top;
 }
 
-main {position: relative;}
+main {
+  position: relative;
+}
 
-table {display: inline;
+table {
+  display: inline;
   position: absolute;
   top: 100px;
-border: 1px solid #263A29;
-padding: 10px;
+  border: 1px solid #263a29;
+  padding: 10px;
 }
 
-table:nth-of-type(2) {left: 900px;}
+table:nth-of-type(2) {
+  left: 850px;
+}
 
+#rodape {
+  text-align: center;
+  font-size: small;
+}
