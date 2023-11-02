@@ -36,7 +36,7 @@ The project consists of a single HTML file (`index.html`) and a CSS  (`style.css
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/feduarte-dev/exercise-functions
+   git clone https://github.com/feduarte-dev/lessons-learned
    ```
 
 2. Navigate to the project directory:
