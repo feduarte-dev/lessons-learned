@@ -4,29 +4,30 @@
 
 <br/>
 
-This is my first JavaScript project at Trybe. I have written seven functions using various JavaScript methods and have become more comfortable with coding.
+In this project, I worked with lists and documented my personal growth while studying web development.
 
 ## Project Description
 
-This JavaScript project aims to test my ability to solve problems with code. Here are the key aspects of the project:
+I used HTML and CSS in this project, aiming to showcase the skills I've acquired during a month of study and the skills I plan to learn soon. I also composed a brief biography detailing my career change.
 
 ### Project Structure
 
-The project consists of a single js file (`functions.js`) and an some tests using Jest (`/tests`).
+The project consists of a single HTML file (`index.html`) and a CSS  (`style.css`) for styling.
 
 ### Technologies
 
 - LINUX
 - VSCODE
-- JAVASCRIPT
+- HTML
+- CSS
 
 ### What I Learned
 
-- How to iterate an array using loops
-- How to use conditionals
-- How to work js methods
-- How to write semantic functions
-- How to debug a function using VSCode
+- How to work with lists
+- How to use external links
+- How to work with divs
+- How to write semantic HTML using code sniffer
+
 
 ## How to Run the Project
 
@@ -41,12 +42,18 @@ The project consists of a single js file (`functions.js`) and an some tests usin
    ```bash
    cd your-repository
    ```
+   
+3. Install dependencies:
 
-3. Open functions.js and call a function.
+   ```bash
+   npm install
+   ```
+
+4. Right click index.html and open it with live server.
 
 ## Contributions
 
-[Felipe](https://www.linkedin.com/in/feduarte-dev/) - /src/functions.js
+[Felipe](https://www.linkedin.com/in/feduarte-dev/) - HTML and CSS
 
 
 
