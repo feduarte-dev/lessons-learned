@@ -1,4 +1,4 @@
-# README: Stomatopoda Project
+# README: Lessons learned
 
 <img src="assets/lessons-learned.png" alt="page" title="page" width=100%>
 
