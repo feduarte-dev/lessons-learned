@@ -12,10 +12,6 @@ In this project, I worked with lists and documented my personal growth while stu
 
 I used HTML and CSS in this project, aiming to showcase the skills I've acquired during a month of study and the skills I plan to learn soon. I also composed a brief biography detailing my career change.
 
-### Project Structure
-
-The project consists of a single HTML file (`index.html`) and a CSS  (`style.css`) for styling.
-
 ### Technologies
 
 - LINUX
